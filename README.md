@@ -5,6 +5,6 @@ Have you ever wished you could use an Icom remote automatic antenna tuner, such 
 
 The firmware is designed to run on the RP2040-Zero platform, or on the Raspberry Pi Pico with some GPIO pin re-assignment.
 
-<img src="(https://ve2zaz.net/Icom_Tuner_Ctrl/Interconnects_Drawings.png)" width="400"/>
+<img src="https://ve2zaz.net/Icom_Tuner_Ctrl/Interconnects_Drawings.png" width="400"/>
 
 The project is detailed on the [VE2ZAZ website](https://ve2zaz.net/Icom_Tuner_Ctrl/Icom_Tuner_Ctlr.htm).
